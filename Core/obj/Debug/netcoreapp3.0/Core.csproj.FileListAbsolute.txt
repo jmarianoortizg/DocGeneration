@@ -1,0 +1,9 @@
+C:\Mariano Ortiz\008_Tricode\007_AccrueMe\006_TestPDF\TestPDF2\Core\bin\Debug\netcoreapp3.0\Core.deps.json
+C:\Mariano Ortiz\008_Tricode\007_AccrueMe\006_TestPDF\TestPDF2\Core\bin\Debug\netcoreapp3.0\Core.dll
+C:\Mariano Ortiz\008_Tricode\007_AccrueMe\006_TestPDF\TestPDF2\Core\bin\Debug\netcoreapp3.0\Core.pdb
+C:\Mariano Ortiz\008_Tricode\007_AccrueMe\006_TestPDF\TestPDF2\Core\obj\Debug\netcoreapp3.0\Core.csproj.AssemblyReference.cache
+C:\Mariano Ortiz\008_Tricode\007_AccrueMe\006_TestPDF\TestPDF2\Core\obj\Debug\netcoreapp3.0\Core.AssemblyInfoInputs.cache
+C:\Mariano Ortiz\008_Tricode\007_AccrueMe\006_TestPDF\TestPDF2\Core\obj\Debug\netcoreapp3.0\Core.AssemblyInfo.cs
+C:\Mariano Ortiz\008_Tricode\007_AccrueMe\006_TestPDF\TestPDF2\Core\obj\Debug\netcoreapp3.0\Core.csproj.CoreCompileInputs.cache
+C:\Mariano Ortiz\008_Tricode\007_AccrueMe\006_TestPDF\TestPDF2\Core\obj\Debug\netcoreapp3.0\Core.dll
+C:\Mariano Ortiz\008_Tricode\007_AccrueMe\006_TestPDF\TestPDF2\Core\obj\Debug\netcoreapp3.0\Core.pdb
